@@ -1,0 +1,317 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e6]: 🌱 小豆苗
+      - generic [ref=e7]:
+        - generic [ref=e8]: 🔥 0 天
+        - generic [ref=e9]: ⭐ 0
+  - main [ref=e10]:
+    - generic [ref=e83]:
+      - generic [ref=e84]:
+        - button "←" [ref=e85] [cursor=pointer]
+        - heading "🔢 数学乐园" [level=1] [ref=e86]
+      - generic [ref=e87]:
+        - generic [ref=e88]:
+          - button "🌱 一年级 50" [ref=e89] [cursor=pointer]:
+            - generic [ref=e90]: 🌱
+            - generic [ref=e91]: 一年级
+            - generic [ref=e92]: "50"
+          - button "🌿 二年级 47" [ref=e93] [cursor=pointer]:
+            - generic [ref=e94]: 🌿
+            - generic [ref=e95]: 二年级
+            - generic [ref=e96]: "47"
+          - button "🍀 三年级 48" [ref=e97] [cursor=pointer]:
+            - generic [ref=e98]: 🍀
+            - generic [ref=e99]: 三年级
+            - generic [ref=e100]: "48"
+          - button "🌳 四年级 44" [ref=e101] [cursor=pointer]:
+            - generic [ref=e102]: 🌳
+            - generic [ref=e103]: 四年级
+            - generic [ref=e104]: "44"
+          - button "🌸 五年级 45" [ref=e105] [cursor=pointer]:
+            - generic [ref=e106]: 🌸
+            - generic [ref=e107]: 五年级
+            - generic [ref=e108]: "45"
+          - button "🌟 六年级 44" [ref=e109] [cursor=pointer]:
+            - generic [ref=e110]: 🌟
+            - generic [ref=e111]: 六年级
+            - generic [ref=e112]: "44"
+        - generic [ref=e113]:
+          - button "📗 上学期20" [ref=e114] [cursor=pointer]
+          - button "📘 下学期20" [ref=e115] [cursor=pointer]
+          - button "⭐ 专项挑战10" [ref=e116] [cursor=pointer]
+      - generic [ref=e117]:
+        - generic [ref=e118]:
+          - generic [ref=e119]:
+            - generic [ref=e120]: 第 1 周
+            - generic [ref=e121]: 1 个题包 · 约 15 分钟
+          - generic [ref=e123]:
+            - generic [ref=e124]: 🔢
+            - generic [ref=e125]:
+              - generic [ref=e126]: 数一数·比多少
+              - generic [ref=e127]: 数出数量，比较多少
+              - generic [ref=e128]:
+                - generic [ref=e129]: ⏱️ 约 15 分钟
+                - generic [ref=e130]: ⭐ 约 16+ 分
+            - button "开始" [ref=e131] [cursor=pointer]
+        - generic [ref=e132]:
+          - generic [ref=e133]:
+            - generic [ref=e134]: 第 2 周
+            - generic [ref=e135]: 1 个题包 · 约 15 分钟
+          - generic [ref=e137]:
+            - generic [ref=e138]: ➕
+            - generic [ref=e139]:
+              - generic [ref=e140]: 5以内加法
+              - generic [ref=e141]: 小棒棒加起来
+              - generic [ref=e142]:
+                - generic [ref=e143]: ⏱️ 约 15 分钟
+                - generic [ref=e144]: ⭐ 约 16+ 分
+            - button "开始" [ref=e145] [cursor=pointer]
+        - generic [ref=e146]:
+          - generic [ref=e147]:
+            - generic [ref=e148]: 第 3 周
+            - generic [ref=e149]: 1 个题包 · 约 15 分钟
+          - generic [ref=e151]:
+            - generic [ref=e152]: ➖
+            - generic [ref=e153]:
+              - generic [ref=e154]: 5以内减法
+              - generic [ref=e155]: 拿走还剩几个
+              - generic [ref=e156]:
+                - generic [ref=e157]: ⏱️ 约 15 分钟
+                - generic [ref=e158]: ⭐ 约 16+ 分
+            - button "开始" [ref=e159] [cursor=pointer]
+        - generic [ref=e160]:
+          - generic [ref=e161]:
+            - generic [ref=e162]: 第 4 周
+            - generic [ref=e163]: 1 个题包 · 约 15 分钟
+          - generic [ref=e165]:
+            - generic [ref=e166]: 🔄
+            - generic [ref=e167]:
+              - generic [ref=e168]: 5以内加减混合
+              - generic [ref=e169]: 加法减法换着练
+              - generic [ref=e170]:
+                - generic [ref=e171]: ⏱️ 约 15 分钟
+                - generic [ref=e172]: ⭐ 约 16+ 分
+            - button "开始" [ref=e173] [cursor=pointer]
+        - generic [ref=e174]:
+          - generic [ref=e175]:
+            - generic [ref=e176]: 第 5 周
+            - generic [ref=e177]: 1 个题包 · 约 15 分钟
+          - generic [ref=e179]:
+            - generic [ref=e180]: 🔺
+            - generic [ref=e181]:
+              - generic [ref=e182]: 认识图形
+              - generic [ref=e183]: 圆、方、三角在哪里
+              - generic [ref=e184]:
+                - generic [ref=e185]: ⏱️ 约 15 分钟
+                - generic [ref=e186]: ⭐ 约 16+ 分
+            - button "开始" [ref=e187] [cursor=pointer]
+        - generic [ref=e188]:
+          - generic [ref=e189]:
+            - generic [ref=e190]: 第 6 周
+            - generic [ref=e191]: 1 个题包 · 约 15 分钟
+          - generic [ref=e193]:
+            - generic [ref=e194]: ➕
+            - generic [ref=e195]:
+              - generic [ref=e196]: 6~10的加法
+              - generic [ref=e197]: 十格阵帮帮忙
+              - generic [ref=e198]:
+                - generic [ref=e199]: ⏱️ 约 15 分钟
+                - generic [ref=e200]: ⭐ 约 16+ 分
+            - button "开始" [ref=e201] [cursor=pointer]
+        - generic [ref=e202]:
+          - generic [ref=e203]:
+            - generic [ref=e204]: 第 7 周
+            - generic [ref=e205]: 1 个题包 · 约 15 分钟
+          - generic [ref=e207]:
+            - generic [ref=e208]: ➖
+            - generic [ref=e209]:
+              - generic [ref=e210]: 6~10的减法
+              - generic [ref=e211]: 划一划数一数
+              - generic [ref=e212]:
+                - generic [ref=e213]: ⏱️ 约 15 分钟
+                - generic [ref=e214]: ⭐ 约 16+ 分
+            - button "开始" [ref=e215] [cursor=pointer]
+        - generic [ref=e216]:
+          - generic [ref=e217]:
+            - generic [ref=e218]: 第 8 周
+            - generic [ref=e219]: 1 个题包 · 约 15 分钟
+          - generic [ref=e221]:
+            - generic [ref=e222]: 🧮
+            - generic [ref=e223]:
+              - generic [ref=e224]: 10以内连加连减
+              - generic [ref=e225]: 三个数一起玩
+              - generic [ref=e226]:
+                - generic [ref=e227]: ⏱️ 约 15 分钟
+                - generic [ref=e228]: ⭐ 约 16+ 分
+            - button "开始" [ref=e229] [cursor=pointer]
+        - generic [ref=e230]:
+          - generic [ref=e231]:
+            - generic [ref=e232]: 第 9 周
+            - generic [ref=e233]: 1 个题包 · 约 15 分钟
+          - generic [ref=e235]:
+            - generic [ref=e236]: 🔀
+            - generic [ref=e237]:
+              - generic [ref=e238]: 10以内加减混合
+              - generic [ref=e239]: 细心计算不跳步
+              - generic [ref=e240]:
+                - generic [ref=e241]: ⏱️ 约 15 分钟
+                - generic [ref=e242]: ⭐ 约 16+ 分
+            - button "开始" [ref=e243] [cursor=pointer]
+        - generic [ref=e244]:
+          - generic [ref=e245]:
+            - generic [ref=e246]: 第 10 周
+            - generic [ref=e247]: 1 个题包 · 约 15 分钟
+          - generic [ref=e249]:
+            - generic [ref=e250]: 🎯
+            - generic [ref=e251]:
+              - generic [ref=e252]: 期中复习·上
+              - generic [ref=e253]: 前五周内容大复习
+              - generic [ref=e254]:
+                - generic [ref=e255]: ⏱️ 约 15 分钟
+                - generic [ref=e256]: ⭐ 约 16+ 分
+            - button "开始" [ref=e257] [cursor=pointer]
+        - generic [ref=e258]:
+          - generic [ref=e259]:
+            - generic [ref=e260]: 第 11 周
+            - generic [ref=e261]: 1 个题包 · 约 15 分钟
+          - generic [ref=e263]:
+            - generic [ref=e264]: 🔟
+            - generic [ref=e265]:
+              - generic [ref=e266]: 11~20各数的认识
+              - generic [ref=e267]: 几个十和几个一
+              - generic [ref=e268]:
+                - generic [ref=e269]: ⏱️ 约 15 分钟
+                - generic [ref=e270]: ⭐ 约 16+ 分
+            - button "开始" [ref=e271] [cursor=pointer]
+        - generic [ref=e272]:
+          - generic [ref=e273]:
+            - generic [ref=e274]: 第 12 周
+            - generic [ref=e275]: 1 个题包 · 约 15 分钟
+          - generic [ref=e277]:
+            - generic [ref=e278]: ➕
+            - generic [ref=e279]:
+              - generic [ref=e280]: 20以内不进位加法
+              - generic [ref=e281]: 十几加几真容易
+              - generic [ref=e282]:
+                - generic [ref=e283]: ⏱️ 约 15 分钟
+                - generic [ref=e284]: ⭐ 约 16+ 分
+            - button "开始" [ref=e285] [cursor=pointer]
+        - generic [ref=e286]:
+          - generic [ref=e287]:
+            - generic [ref=e288]: 第 13 周
+            - generic [ref=e289]: 1 个题包 · 约 15 分钟
+          - generic [ref=e291]:
+            - generic [ref=e292]: ➖
+            - generic [ref=e293]:
+              - generic [ref=e294]: 20以内不退位减法
+              - generic [ref=e295]: 十几减几试试看
+              - generic [ref=e296]:
+                - generic [ref=e297]: ⏱️ 约 15 分钟
+                - generic [ref=e298]: ⭐ 约 16+ 分
+            - button "开始" [ref=e299] [cursor=pointer]
+        - generic [ref=e300]:
+          - generic [ref=e301]:
+            - generic [ref=e302]: 第 14 周
+            - generic [ref=e303]: 1 个题包 · 约 15 分钟
+          - generic [ref=e305]:
+            - generic [ref=e306]: 🧩
+            - generic [ref=e307]:
+              - generic [ref=e308]: 9加几
+              - generic [ref=e309]: 凑十法：凑成 10 再加
+              - generic [ref=e310]:
+                - generic [ref=e311]: ⏱️ 约 15 分钟
+                - generic [ref=e312]: ⭐ 约 16+ 分
+            - button "开始" [ref=e313] [cursor=pointer]
+        - generic [ref=e314]:
+          - generic [ref=e315]:
+            - generic [ref=e316]: 第 15 周
+            - generic [ref=e317]: 1 个题包 · 约 15 分钟
+          - generic [ref=e319]:
+            - generic [ref=e320]: 🧩
+            - generic [ref=e321]:
+              - generic [ref=e322]: 8、7、6加几
+              - generic [ref=e323]: 凑十法进阶
+              - generic [ref=e324]:
+                - generic [ref=e325]: ⏱️ 约 15 分钟
+                - generic [ref=e326]: ⭐ 约 16+ 分
+            - button "开始" [ref=e327] [cursor=pointer]
+        - generic [ref=e328]:
+          - generic [ref=e329]:
+            - generic [ref=e330]: 第 16 周
+            - generic [ref=e331]: 1 个题包 · 约 15 分钟
+          - generic [ref=e333]:
+            - generic [ref=e334]: 💪
+            - generic [ref=e335]:
+              - generic [ref=e336]: 20以内进位加法
+              - generic [ref=e337]: 进位加法综合练
+              - generic [ref=e338]:
+                - generic [ref=e339]: ⏱️ 约 15 分钟
+                - generic [ref=e340]: ⭐ 约 16+ 分
+            - button "开始" [ref=e341] [cursor=pointer]
+        - generic [ref=e342]:
+          - generic [ref=e343]:
+            - generic [ref=e344]: 第 17 周
+            - generic [ref=e345]: 1 个题包 · 约 15 分钟
+          - generic [ref=e347]:
+            - generic [ref=e348]: ⚖️
+            - generic [ref=e349]:
+              - generic [ref=e350]: 比一比大小
+              - generic [ref=e351]: 大于小于还是等于
+              - generic [ref=e352]:
+                - generic [ref=e353]: ⏱️ 约 15 分钟
+                - generic [ref=e354]: ⭐ 约 16+ 分
+            - button "开始" [ref=e355] [cursor=pointer]
+        - generic [ref=e356]:
+          - generic [ref=e357]:
+            - generic [ref=e358]: 第 18 周
+            - generic [ref=e359]: 1 个题包 · 约 15 分钟
+          - generic [ref=e361]:
+            - generic [ref=e362]: 🕐
+            - generic [ref=e363]:
+              - generic [ref=e364]: 认识钟表·整时
+              - generic [ref=e365]: 时针分针认时间
+              - generic [ref=e366]:
+                - generic [ref=e367]: ⏱️ 约 15 分钟
+                - generic [ref=e368]: ⭐ 约 16+ 分
+            - button "开始" [ref=e369] [cursor=pointer]
+        - generic [ref=e370]:
+          - generic [ref=e371]:
+            - generic [ref=e372]: 第 19 周
+            - generic [ref=e373]: 1 个题包 · 约 15 分钟
+          - generic [ref=e375]:
+            - generic [ref=e376]: 🧭
+            - generic [ref=e377]:
+              - generic [ref=e378]: 位置与顺序
+              - generic [ref=e379]: 上下左右前前后后
+              - generic [ref=e380]:
+                - generic [ref=e381]: ⏱️ 约 15 分钟
+                - generic [ref=e382]: ⭐ 约 16+ 分
+            - button "开始" [ref=e383] [cursor=pointer]
+        - generic [ref=e384]:
+          - generic [ref=e385]:
+            - generic [ref=e386]: 第 20 周
+            - generic [ref=e387]: 1 个题包 · 约 15 分钟
+          - generic [ref=e389]:
+            - generic [ref=e390]: 🏆
+            - generic [ref=e391]:
+              - generic [ref=e392]: 期末复习·上
+              - generic [ref=e393]: 本学期综合挑战
+              - generic [ref=e394]:
+                - generic [ref=e395]: ⏱️ 约 15 分钟
+                - generic [ref=e396]: ⭐ 约 16+ 分
+            - button "开始" [ref=e397] [cursor=pointer]
+  - navigation [ref=e69]:
+    - generic [ref=e70]:
+      - button "🏠 首页" [ref=e71] [cursor=pointer]:
+        - generic [ref=e72]: 🏠
+        - generic [ref=e73]: 首页
+      - button "🎁 奖励" [ref=e74] [cursor=pointer]:
+        - generic [ref=e75]: 🎁
+        - generic [ref=e76]: 奖励
+      - button "📅 日历" [ref=e77] [cursor=pointer]:
+        - generic [ref=e78]: 📅
+        - generic [ref=e79]: 日历
+      - button "⚙️ 家长" [ref=e80] [cursor=pointer]:
+        - generic [ref=e81]: ⚙️
+        - generic [ref=e82]: 家长

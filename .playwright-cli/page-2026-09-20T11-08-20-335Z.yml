@@ -1,0 +1,147 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e6]: 🌱 小豆苗
+      - generic [ref=e7]:
+        - generic [ref=e8]: 🔥 0 天
+        - generic [ref=e9]: ⭐ 0
+  - main [ref=e10]:
+    - generic [ref=e83]:
+      - generic [ref=e84]:
+        - button "←" [ref=e85] [cursor=pointer]
+        - heading "🔢 数学乐园" [level=1] [ref=e86]
+      - generic [ref=e87]:
+        - generic [ref=e88]:
+          - button "🌱 一年级 50" [ref=e89] [cursor=pointer]:
+            - generic [ref=e90]: 🌱
+            - generic [ref=e91]: 一年级
+            - generic [ref=e92]: "50"
+          - button "🌿 二年级 47" [ref=e93] [cursor=pointer]:
+            - generic [ref=e94]: 🌿
+            - generic [ref=e95]: 二年级
+            - generic [ref=e96]: "47"
+          - button "🍀 三年级 48" [ref=e97] [cursor=pointer]:
+            - generic [ref=e98]: 🍀
+            - generic [ref=e99]: 三年级
+            - generic [ref=e100]: "48"
+          - button "🌳 四年级 44" [ref=e101] [cursor=pointer]:
+            - generic [ref=e102]: 🌳
+            - generic [ref=e103]: 四年级
+            - generic [ref=e104]: "44"
+          - button "🌸 五年级 45" [ref=e105] [cursor=pointer]:
+            - generic [ref=e106]: 🌸
+            - generic [ref=e107]: 五年级
+            - generic [ref=e108]: "45"
+          - button "🌟 六年级 44" [ref=e109] [cursor=pointer]:
+            - generic [ref=e110]: 🌟
+            - generic [ref=e111]: 六年级
+            - generic [ref=e112]: "44"
+        - generic [ref=e113]:
+          - button "📗 上学期20" [ref=e114] [cursor=pointer]
+          - button "📘 下学期20" [ref=e115] [cursor=pointer]
+          - button "⭐ 专项挑战10" [active] [ref=e116] [cursor=pointer]
+      - generic [ref=e117]:
+        - generic [ref=e398]:
+          - generic [ref=e399]: ➕
+          - generic [ref=e400]:
+            - generic [ref=e401]: 10以内加法
+            - generic [ref=e402]: 用十格阵数一数，加法变简单
+            - generic [ref=e403]:
+              - generic [ref=e404]: ⏱️ 约 20 分钟
+              - generic [ref=e405]: ⭐ 约 20+ 分
+          - button "开始" [ref=e406] [cursor=pointer]
+        - generic [ref=e407]:
+          - generic [ref=e408]: ➖
+          - generic [ref=e409]:
+            - generic [ref=e410]: 10以内减法
+            - generic [ref=e411]: 划掉苹果看一看，还剩几个？
+            - generic [ref=e412]:
+              - generic [ref=e413]: ⏱️ 约 20 分钟
+              - generic [ref=e414]: ⭐ 约 20+ 分
+          - button "开始" [ref=e415] [cursor=pointer]
+        - generic [ref=e416]:
+          - generic [ref=e417]: 💯
+          - generic [ref=e418]:
+            - generic [ref=e419]: 20以内加减法
+            - generic [ref=e420]: 细心计算小挑战
+            - generic [ref=e421]:
+              - generic [ref=e422]: ⏱️ 约 20 分钟
+              - generic [ref=e423]: ⭐ 约 24+ 分
+          - button "开始" [ref=e424] [cursor=pointer]
+        - generic [ref=e425]:
+          - generic [ref=e426]: ⚖️
+          - generic [ref=e427]:
+            - generic [ref=e428]: 比一比大小
+            - generic [ref=e429]: 大于小于还是等于？
+            - generic [ref=e430]:
+              - generic [ref=e431]: ⏱️ 约 15 分钟
+              - generic [ref=e432]: ⭐ 约 18+ 分
+          - button "开始" [ref=e433] [cursor=pointer]
+        - generic [ref=e434]:
+          - generic [ref=e435]: 🧩
+          - generic [ref=e436]:
+            - generic [ref=e437]: 算式填空
+            - generic [ref=e438]: 方框里藏着数字几？
+            - generic [ref=e439]:
+              - generic [ref=e440]: ⏱️ 约 20 分钟
+              - generic [ref=e441]: ⭐ 约 24+ 分
+          - button "开始" [ref=e442] [cursor=pointer]
+        - generic [ref=e443]:
+          - generic [ref=e444]: ✖️
+          - generic [ref=e445]:
+            - generic [ref=e446]: 乘法启蒙
+            - generic [ref=e447]: 几个几相加，乘法来啦
+            - generic [ref=e448]:
+              - generic [ref=e449]: ⏱️ 约 20 分钟
+              - generic [ref=e450]: ⭐ 约 26+ 分
+          - button "开始" [ref=e451] [cursor=pointer]
+        - generic [ref=e452]:
+          - generic [ref=e453]: 📗
+          - generic [ref=e454]:
+            - generic [ref=e455]: 应用题乐园
+            - generic [ref=e456]: 生活里的数学小故事
+            - generic [ref=e457]:
+              - generic [ref=e458]: ⏱️ 约 20 分钟
+              - generic [ref=e459]: ⭐ 约 26+ 分
+          - button "开始" [ref=e460] [cursor=pointer]
+        - generic [ref=e461]:
+          - generic [ref=e462]: 🧠
+          - generic [ref=e463]:
+            - generic [ref=e464]: 浅奥思维·低阶
+            - generic [ref=e465]: 数线段、找规律、排队问题
+            - generic [ref=e466]:
+              - generic [ref=e467]: ⏱️ 约 20 分钟
+              - generic [ref=e468]: ⭐ 约 28+ 分
+          - button "开始" [ref=e469] [cursor=pointer]
+        - generic [ref=e470]:
+          - generic [ref=e471]: 🔢
+          - generic [ref=e472]:
+            - generic [ref=e473]: 数独启蒙
+            - generic [ref=e474]: 4宫数独小游戏
+            - generic [ref=e475]:
+              - generic [ref=e476]: ⏱️ 约 15 分钟
+              - generic [ref=e477]: ⭐ 约 24+ 分
+          - button "开始" [ref=e478] [cursor=pointer]
+        - generic [ref=e479]:
+          - generic [ref=e480]: 🔍
+          - generic [ref=e481]:
+            - generic [ref=e482]: 逻辑推理
+            - generic [ref=e483]: 谁最高？谁最快？
+            - generic [ref=e484]:
+              - generic [ref=e485]: ⏱️ 约 15 分钟
+              - generic [ref=e486]: ⭐ 约 24+ 分
+          - button "开始" [ref=e487] [cursor=pointer]
+  - navigation [ref=e69]:
+    - generic [ref=e70]:
+      - button "🏠 首页" [ref=e71] [cursor=pointer]:
+        - generic [ref=e72]: 🏠
+        - generic [ref=e73]: 首页
+      - button "🎁 奖励" [ref=e74] [cursor=pointer]:
+        - generic [ref=e75]: 🎁
+        - generic [ref=e76]: 奖励
+      - button "📅 日历" [ref=e77] [cursor=pointer]:
+        - generic [ref=e78]: 📅
+        - generic [ref=e79]: 日历
+      - button "⚙️ 家长" [ref=e80] [cursor=pointer]:
+        - generic [ref=e81]: ⚙️
+        - generic [ref=e82]: 家长

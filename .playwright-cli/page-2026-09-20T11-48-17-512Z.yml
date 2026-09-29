@@ -1,0 +1,87 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e6]: 🌱 小豆苗
+      - generic [ref=e7]:
+        - generic [ref=e8]: 🔥 0 天
+        - generic [ref=e9]: ⭐ 0
+  - main [ref=e10]:
+    - generic [ref=e11]:
+      - generic [ref=e12]:
+        - generic [ref=e13]:
+          - generic [ref=e14]:
+            - generic [ref=e15]: 晚上好，小学霸！🌱
+            - generic [ref=e16]: 今天还没有打卡，来挑战一组题吧！
+          - generic [ref=e17]: 🐳
+        - generic [ref=e18]:
+          - generic [ref=e19]:
+            - generic [ref=e20]: ⭐
+            - generic [ref=e21]:
+              - generic [ref=e22]: "0"
+              - generic [ref=e23]: 我的积分
+          - generic [ref=e24]:
+            - generic [ref=e25]: 🔥
+            - generic [ref=e26]:
+              - generic [ref=e27]: 0 天
+              - generic [ref=e28]: 连续打卡
+      - button "一年级 · 奥数自学专区 🔍 小小思考家 → 看图学办法，自己试一试，挣积分换礼物。 🌱 5 个主题 · 从图解例题开始" [ref=e29] [cursor=pointer]:
+        - generic [ref=e30]: 一年级 · 奥数自学专区
+        - generic [ref=e31]:
+          - text: 🔍 小小思考家
+          - generic [ref=e32]: →
+        - paragraph [ref=e33]: 看图学办法，自己试一试，挣积分换礼物。
+        - generic [ref=e34]: 🌱 5 个主题 · 从图解例题开始
+      - generic [ref=e35]:
+        - generic [ref=e36]:
+          - generic [ref=e37]: 🎯 今日三科小目标
+          - generic [ref=e38]: 0/3
+        - generic [ref=e39]:
+          - generic [ref=e40]:
+            - generic [ref=e41]: 🔢
+            - generic [ref=e42]: 数学
+          - generic [ref=e43]:
+            - generic [ref=e44]: 📖
+            - generic [ref=e45]: 语文
+          - generic [ref=e46]:
+            - generic [ref=e47]: 🔤
+            - generic [ref=e48]: 英语
+      - generic [ref=e49]:
+        - button "🔢 数学乐园 278 个题包 · 已完成 0 次 →" [ref=e50] [cursor=pointer]:
+          - generic [ref=e51]:
+            - generic [ref=e52]:
+              - generic [ref=e53]: 🔢
+              - generic [ref=e54]:
+                - generic [ref=e55]: 数学乐园
+                - generic [ref=e56]: 278 个题包 · 已完成 0 次
+            - generic [ref=e57]: →
+        - button "📖 语文乐园 262 个题包 · 已完成 0 次 →" [ref=e58] [cursor=pointer]:
+          - generic [ref=e59]:
+            - generic [ref=e60]:
+              - generic [ref=e61]: 📖
+              - generic [ref=e62]:
+                - generic [ref=e63]: 语文乐园
+                - generic [ref=e64]: 262 个题包 · 已完成 0 次
+            - generic [ref=e65]: →
+        - button "🔤 英语乐园 266 个题包 · 已完成 0 次 →" [ref=e66] [cursor=pointer]:
+          - generic [ref=e67]:
+            - generic [ref=e68]:
+              - generic [ref=e69]: 🔤
+              - generic [ref=e70]:
+                - generic [ref=e71]: 英语乐园
+                - generic [ref=e72]: 266 个题包 · 已完成 0 次
+            - generic [ref=e73]: →
+      - generic [ref=e74]: 每组题包约 15–20 分钟 · 完成即可获得积分 🌟
+  - navigation [ref=e75]:
+    - generic [ref=e76]:
+      - button "🏠 首页" [ref=e77] [cursor=pointer]:
+        - generic [ref=e78]: 🏠
+        - generic [ref=e79]: 首页
+      - button "🎁 奖励" [ref=e80] [cursor=pointer]:
+        - generic [ref=e81]: 🎁
+        - generic [ref=e82]: 奖励
+      - button "📅 日历" [ref=e83] [cursor=pointer]:
+        - generic [ref=e84]: 📅
+        - generic [ref=e85]: 日历
+      - button "⚙️ 家长" [ref=e86] [cursor=pointer]:
+        - generic [ref=e87]: ⚙️
+        - generic [ref=e88]: 家长
